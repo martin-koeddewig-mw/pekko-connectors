@@ -61,5 +61,3 @@ Apache Pekko is available under the Apache License, version 2.0. See [LICENSE](h
 Pekko Connectors components are not always binary compatible between releases. API changes that are not backward compatible might be introduced as we refine and simplify based on your feedback. A module may be dropped in any release without prior deprecation. 
 
 Our goal is to improve the stability and test coverage for Pekko Connectors APIs over time.
-
-test
